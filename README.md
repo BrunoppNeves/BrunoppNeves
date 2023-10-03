@@ -39,8 +39,8 @@
 ##  🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/bruno-neves-2917a6b0/"><img src="https://img.shields.io/badge/-Cameron%20Thompson-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:bruno.pneves9@gamil.com"><img src="https://img.shields.io/badge/-camthomp96@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/bruno-neves-2917a6b0/"><img src="https://img.shields.io/badge/-Bruno%20Neves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bruno.pneves9@gamil.com"><img src="https://img.shields.io/badge/-bruno.pneves9@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **BrunoppNeves/BrunoppNeves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
