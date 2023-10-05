@@ -1,11 +1,17 @@
-### Hi there 👋
+### Olá 👋
 
-## I'm Bruno Neves.
+## Eu me chamo Bruno Neves.
 
-### 💻 &nbsp;About Me 
+### 💻 &nbsp;Sobre Mim
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; I study computer science at UNIFOR
+Olá! 👋 Meu nome é Bruno Neves, sou estudante de ciência da computação na UNIFOR e sou apaixonado por programação e tecnologia. Estou sempre em busca de aprender novas coisas e me dedicar para melhorar a cada dia, especialmente no mundo do desenvolvimento de software.
+
+🚀 Aqui está um pouco mais sobre mim:
+
+- 🌱 Tenho um forte interesse em backend, embora também goste de trabalhar no front-end.
+- 🤝 Sou um entusiasta do trabalho em equipe e procuro sempre ajudar meus colegas de equipe para alcançarmos nossos objetivos juntos.
+
+Nos meus momentos livres, você vai me encontrar explorando novas tecnologias, trabalhando em projetos pessoais e ampliando meus conhecimentos. Vamos nos conectar e compartilhar nossas experiências!
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -27,7 +33,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## My Stats
+## Meu status
 <p>
 <a href="https://github.com/BrunoppNeves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoppNeves&show_icons=true&theme=radical" />
@@ -36,7 +42,7 @@
 </p>
 
 
-##  🤝🏻 &nbsp;Connect with Me
+##  🤝🏻 &nbsp;Conecte-se comigo
 
 <p align="center">
 <a href="https://www.linkedin.com/in/bruno-neves-2917a6b0/"><img src="https://img.shields.io/badge/-Bruno%20Neves-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
