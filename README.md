@@ -4,15 +4,12 @@
 
 ### 💻 &nbsp;Sobre Mim
 
-Olá! 👋 Meu nome é Bruno Neves, sou estudante de ciência da computação na UNIFOR e sou apaixonado por programação e tecnologia. Estou sempre em busca de aprender novas coisas e me dedicar para melhorar a cada dia, especialmente no mundo do desenvolvimento de software.
+Olá! 👋 Meu nome é Bruno Neves, sou estudante de ciência da computação na UNIFOR e sou apaixonado por programação e tecnologia. Estou sempre em busca de aprender novas coisas e me dedicando para melhorar a cada dia, especialmente no mundo do desenvolvimento de software.
 
 🚀 Aqui está um pouco mais sobre mim:
 
 - 🌱 Tenho um forte interesse em backend, embora também goste de trabalhar no front-end.
 - 🤝 Sou um entusiasta do trabalho em equipe e procuro sempre ajudar meus colegas de equipe para alcançarmos nossos objetivos juntos.
-
-Nos meus momentos livres, você vai me encontrar explorando novas tecnologias, trabalhando em projetos pessoais e ampliando meus conhecimentos. Vamos nos conectar e compartilhar nossas experiências!
-
 
 ### 🛠 &nbsp;Tech Stack
 
